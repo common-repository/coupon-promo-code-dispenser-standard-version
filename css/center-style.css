@@ -1,0 +1,36 @@
+.free-prints {
+	height: 44px;
+	width: 45%;
+	margin-top: 15px;
+	font-size: 14px;
+	font-weight: 500;
+	border-radius: 0px;
+	background-color: #515151;
+	border: medium none;
+	color: #FFF;
+}
+
+#coupon-plugin {
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.regular-text {
+	display: inline-block;
+	width: 288px;
+	margin: 13px 0px 6px;
+	padding: 4px;
+	height: 19px;
+	font-size: 13px;
+}
+
+.emailLabel {
+	color: #000;
+	text-align: left;
+	vertical-align: 0px;
+}
+
+#signup, label {
+	vertical-align: 17px;
+	color: #000;
+}
